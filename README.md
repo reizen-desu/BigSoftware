@@ -1,6 +1,6 @@
 ## Laravel
 
-[Clique aqui](https://www.youtube.com/watch?v=QJXZQYQ1n9c) para ver o video que usei para como base para a criação do projeto
+[Clique aqui](https://www.youtube.com/watch?v=HKJDLXsTr8A) para ver o video que usei para como base para a criação do projeto
 Para a construção das telas foi usado o framework [TailwindCSS](https://tailwindcss.com/)
 
 ## Requisitos
