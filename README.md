@@ -17,6 +17,7 @@ git clone https://github.com/reizen-desu/BigSoftware.git
 cd BigSoftware
 cp .env.example .env
 composer install
+composer update
 php artisan key:generate
 php artisan cache:clear && php artisan config:clear
 php artisan serve # Corra apenas esse comando após ler as instruções abaixo
