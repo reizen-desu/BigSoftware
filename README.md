@@ -12,7 +12,7 @@ Video usado para auxiliar na criação do projeto: https://www.youtube.com/watch
 Configuração do ambiente no seu computador:
 
 ```
-git clone git@github.com:reizen-desu/BigSoftware.git
+git clone https://github.com/reizen-desu/BigSoftware.git
 cd BigSoftware
 cp .env.example .env
 composer install
